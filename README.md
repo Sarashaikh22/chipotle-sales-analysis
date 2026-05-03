@@ -23,6 +23,7 @@ This project analyzes Chipotle order data to uncover insights into sales, custom
 - Average Order Value
 
 ## 📷 Dashboard Preview
-(Add your screenshot here if you upload it)
+<img width="1822" height="813" alt="image" src="https://github.com/user-attachments/assets/f35af6fd-40ef-4dad-9bfd-54933f314040" />
+
 
 ---

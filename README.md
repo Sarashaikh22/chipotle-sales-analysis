@@ -15,7 +15,7 @@ This project analyzes Chipotle order data to uncover insights into sales, custom
 
 ## 📁 Files
 - Dashboard PDF (Power BI)
-- Dataset (Excel)
+- Dataset (CSV)
 
 ## 📌 Key Metrics
 - Total Revenue
